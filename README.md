@@ -1,4 +1,4 @@
-# Ruby Quest
+# Ruby-Quest
 A GUI video game where your goal is to capture the "Ruby" to win! This project showcases my implementation of Java OOP principles alongside my foundational graphic design skills. Download the source code (src) and give it a try!
 <div>
   <b>Preview of Game Start:</b>
